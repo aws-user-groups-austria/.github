@@ -48,7 +48,8 @@ Want to start a user group somewhere in Austria? Write to [hello@awscommunity.at
 | [meetup-stream-templates](https://github.com/aws-user-groups-austria/meetup-stream-templates) | The room screen: Remotion scenes and the web player, also the live header on each meetup page |
 | [meetup-deck](https://github.com/aws-user-groups-austria/meetup-deck) | The group's slide deck, filled in for a meetup, as .pptx and PDF |
 
-Built by and for the community. The tools are free to reuse for your own user group; see also the
+Built by and for the community. The tools are free to reuse for your own user group, under the
+CC BY-NC-SA 4.0 licence in each repository (photos of people and company logos are not included); see also the
 [AWS User Group Toolkit](https://github.com/aws-user-group-toolkit).
 
 <sub>AWS User Groups are run by volunteers and are not affiliated with Amazon Web Services.</sub>
